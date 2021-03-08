@@ -1,6 +1,6 @@
-# efg_onboarding
+# Onboarding Screen
 
-A new Flutter project.
+This is an onboarding screen example built in Flutter.
 
 ## Getting Started
 
